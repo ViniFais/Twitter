@@ -17,4 +17,3 @@
 <div>
  <img  src="clone_twitter/imagensGitHub/img2.jpeg" width="300px"/>
 </div>
-
