@@ -11,5 +11,9 @@
 </ul>
 
 # imagens do App
-![img](clone_twitter/imagensGithub/img1.png)
-![img](clone_twitter/imagensGithub/img2.png)
+<div>
+ <img  src="clone_twitter/imagensGitHub/img1.jpeg" width="300px"/>
+</div>
+<div>
+ <img  src="clone_twitter/imagensGitHub/img2.jpeg" width="300px"/>
+</div>
